@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Karthik Reddy 
 
 ### 🎓 CSE Student @ SRM University | 💻 Full Stack Developer | 🤖 AI Enthusiast 
-### 🚀 Founder @ ShopNex | Creator of SwiftChat
+### 🚀 Founder @ ShopNex | Creator of NexaChat
 
 ---
 
 ## 🧠 About Me
 Computer Science student at SRM University with experience in building AI-powered and real-time applications. Focused on developing scalable backend systems and intelligent solutions using modern technologies.
 
-- 🔭 **Currently building:** SwiftChat & AI-based applications
+- 🔭 **Currently building:** NexaChat & AI-based applications
 - 🌱 **Learning:** System Design, Advanced Backend, AI Integration
 - 💡 **Interests:** Startups, AI, Real-time Systems
 - 🎯 **Goal:** Become a top software engineer & entrepreneur
@@ -34,7 +34,7 @@ Computer Science student at SRM University with experience in building AI-powere
 ---
 
 ## 🚀 Projects
-* 📱 **SwiftChat** – Real-time chat app using React Native & Socket.IO
+* 📱 **NexaChat** – Real-time chat app using React Native & Socket.IO
 * 🛒 **ShopNex** – Local grocery delivery platform for small businesses
 * 🤖 **Campus Assistant Chatbot** – AI chatbot for student queries
 * 📰 **Fake News Detection System** – Machine Learning based classifier
